@@ -115,5 +115,7 @@
     <comp lib="6" loc="(150,730)" name="Button">
       <a name="label" val="B09"/>
     </comp>
+    <wire from="(150,280)" to="(150,290)"/>
+    <wire from="(150,280)" to="(260,280)"/>
   </circuit>
 </project>
