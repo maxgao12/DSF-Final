@@ -57,6 +57,7 @@
     <a name="circuit" val="main"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="simulationFrequency" val="1.0"/>
+    <comp lib="1" loc="(290,280)" name="NOT Gate"/>
     <comp lib="5" loc="(460,150)" name="D Flip-Flop">
       <a name="appearance" val="logisim_evolution"/>
     </comp>
