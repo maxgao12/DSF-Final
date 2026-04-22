@@ -84,7 +84,7 @@
     <comp lib="5" loc="(460,790)" name="D Flip-Flop">
       <a name="appearance" val="logisim_evolution"/>
     </comp>
-    <comp lib="6" loc="(150,290)" name="Button">
+    <comp lib="6" loc="(150,280)" name="Button">
       <a name="label" val="B00"/>
     </comp>
     <comp lib="6" loc="(150,330)" name="Button">
