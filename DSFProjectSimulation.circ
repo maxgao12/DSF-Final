@@ -239,10 +239,6 @@
     <comp lib="6" loc="(110,830)" name="Button">
       <a name="label" val="B09"/>
     </comp>
-    <comp lib="6" loc="(1550,140)" name="Button">
-      <a name="facing" val="west"/>
-      <a name="label" val="Preset"/>
-    </comp>
     <comp lib="6" loc="(1550,240)" name="Button">
       <a name="facing" val="west"/>
       <a name="label" val="Reset"/>
@@ -378,9 +374,7 @@
     <wire from="(1230,1020)" to="(1230,1040)"/>
     <wire from="(1230,1040)" to="(1350,1040)"/>
     <wire from="(1230,140)" to="(1230,160)"/>
-    <wire from="(1230,140)" to="(1550,140)"/>
-    <wire from="(1230,220)" to="(1230,240)"/>
-    <wire from="(1230,240)" to="(1350,240)"/>
+    <wire from="(1230,140)" to="(1350,140)"/>
     <wire from="(1230,320)" to="(1230,330)"/>
     <wire from="(1230,330)" to="(1350,330)"/>
     <wire from="(1230,420)" to="(1230,430)"/>
@@ -460,6 +454,7 @@
     <wire from="(1300,50)" to="(1300,120)"/>
     <wire from="(1300,570)" to="(1300,630)"/>
     <wire from="(1300,570)" to="(1460,570)"/>
+    <wire from="(1350,140)" to="(1350,240)"/>
     <wire from="(1350,240)" to="(1350,330)"/>
     <wire from="(1350,240)" to="(1550,240)"/>
     <wire from="(1350,330)" to="(1350,430)"/>
