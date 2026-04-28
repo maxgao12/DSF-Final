@@ -56,7 +56,7 @@
     <a name="appearance" val="logisim_evolution"/>
     <a name="circuit" val="main"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
-    <a name="simulationFrequency" val="1.0"/>
+    <a name="simulationFrequency" val="4.0"/>
     <comp lib="0" loc="(150,1290)" name="Clock">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
@@ -251,6 +251,66 @@
     </comp>
     <comp lib="6" loc="(1820,420)" name="LED">
       <a name="label" val="Red"/>
+    </comp>
+    <comp lib="9" loc="(231,204)" name="Text">
+      <a name="text" val="q1"/>
+    </comp>
+    <comp lib="9" loc="(231,524)" name="Text">
+      <a name="text" val="q5"/>
+    </comp>
+    <comp lib="9" loc="(231,769)" name="Text">
+      <a name="text" val="q8"/>
+    </comp>
+    <comp lib="9" loc="(233,685)" name="Text">
+      <a name="text" val="q7"/>
+    </comp>
+    <comp lib="9" loc="(234,445)" name="Text">
+      <a name="text" val="q4"/>
+    </comp>
+    <comp lib="9" loc="(234,848)" name="Text">
+      <a name="text" val="q9"/>
+    </comp>
+    <comp lib="9" loc="(236,284)" name="Text">
+      <a name="text" val="q2"/>
+    </comp>
+    <comp lib="9" loc="(236,364)" name="Text">
+      <a name="text" val="q3"/>
+    </comp>
+    <comp lib="9" loc="(236,603)" name="Text">
+      <a name="text" val="q6"/>
+    </comp>
+    <comp lib="9" loc="(240,126)" name="Text">
+      <a name="text" val="q0"/>
+    </comp>
+    <comp lib="9" loc="(376,714)" name="Text">
+      <a name="text" val="c8"/>
+    </comp>
+    <comp lib="9" loc="(378,60)" name="Text">
+      <a name="text" val="c0"/>
+    </comp>
+    <comp lib="9" loc="(379,559)" name="Text">
+      <a name="text" val="c6"/>
+    </comp>
+    <comp lib="9" loc="(385,476)" name="Text">
+      <a name="text" val="c5"/>
+    </comp>
+    <comp lib="9" loc="(385,800)" name="Text">
+      <a name="text" val="c9"/>
+    </comp>
+    <comp lib="9" loc="(391,634)" name="Text">
+      <a name="text" val="c7"/>
+    </comp>
+    <comp lib="9" loc="(401,154)" name="Text">
+      <a name="text" val="c1"/>
+    </comp>
+    <comp lib="9" loc="(401,408)" name="Text">
+      <a name="text" val="c4"/>
+    </comp>
+    <comp lib="9" loc="(405,336)" name="Text">
+      <a name="text" val="c3"/>
+    </comp>
+    <comp lib="9" loc="(406,238)" name="Text">
+      <a name="text" val="c2"/>
     </comp>
     <comp lib="9" loc="(725,120)" name="Text">
       <a name="text" val="Press"/>
