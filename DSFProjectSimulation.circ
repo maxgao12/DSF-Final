@@ -56,7 +56,7 @@
     <a name="appearance" val="logisim_evolution"/>
     <a name="circuit" val="main"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
-    <a name="simulationFrequency" val="4.0"/>
+    <a name="simulationFrequency" val="16.0"/>
     <comp lib="0" loc="(150,1290)" name="Clock">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
@@ -258,46 +258,46 @@
     <comp lib="6" loc="(1820,420)" name="LED">
       <a name="label" val="Red"/>
     </comp>
-    <comp lib="9" loc="(1034,212)" name="Text">
+    <comp lib="9" loc="(1030,210)" name="Text">
       <a name="text" val="o2"/>
     </comp>
-    <comp lib="9" loc="(1080,912)" name="Text">
-      <a name="text" val="a16"/>
-    </comp>
-    <comp lib="9" loc="(1081,668)" name="Text">
+    <comp lib="9" loc="(1080,665)" name="Text">
       <a name="text" val="a11"/>
     </comp>
-    <comp lib="9" loc="(1085,1044)" name="Text">
+    <comp lib="9" loc="(1080,910)" name="Text">
+      <a name="text" val="a16"/>
+    </comp>
+    <comp lib="9" loc="(1085,1040)" name="Text">
       <a name="text" val="a18"/>
     </comp>
-    <comp lib="9" loc="(1086,784)" name="Text">
+    <comp lib="9" loc="(1085,780)" name="Text">
       <a name="text" val="a12"/>
     </comp>
-    <comp lib="9" loc="(1104,318)" name="Text">
+    <comp lib="9" loc="(1100,315)" name="Text">
       <a name="text" val="a5"/>
     </comp>
-    <comp lib="9" loc="(1106,184)" name="Text">
+    <comp lib="9" loc="(1105,180)" name="Text">
       <a name="text" val="a2"/>
     </comp>
-    <comp lib="9" loc="(1106,67)" name="Text">
+    <comp lib="9" loc="(1105,65)" name="Text">
       <a name="text" val="a1"/>
     </comp>
-    <comp lib="9" loc="(1120,442)" name="Text">
+    <comp lib="9" loc="(1120,440)" name="Text">
       <a name="text" val="a6"/>
     </comp>
-    <comp lib="9" loc="(1120,953)" name="Text">
+    <comp lib="9" loc="(1120,950)" name="Text">
       <a name="text" val="o9"/>
     </comp>
-    <comp lib="9" loc="(1131,692)" name="Text">
+    <comp lib="9" loc="(1130,690)" name="Text">
       <a name="text" val="o7"/>
     </comp>
-    <comp lib="9" loc="(1149,343)" name="Text">
+    <comp lib="9" loc="(1145,340)" name="Text">
       <a name="text" val="o4"/>
     </comp>
-    <comp lib="9" loc="(1164,103)" name="Text">
+    <comp lib="9" loc="(1160,100)" name="Text">
       <a name="text" val="o1"/>
     </comp>
-    <comp lib="9" loc="(1457,222)" name="Text">
+    <comp lib="9" loc="(1455,220)" name="Text">
       <a name="text" val="reset/!reset"/>
     </comp>
     <comp lib="9" loc="(230,200)" name="Text">
@@ -363,49 +363,49 @@
     <comp lib="9" loc="(725,120)" name="Text">
       <a name="text" val="Press"/>
     </comp>
-    <comp lib="9" loc="(843,537)" name="Text">
-      <a name="text" val="a8"/>
-    </comp>
-    <comp lib="9" loc="(844,428)" name="Text">
+    <comp lib="9" loc="(840,425)" name="Text">
       <a name="text" val="a7"/>
     </comp>
-    <comp lib="9" loc="(852,586)" name="Text">
-      <a name="text" val="a9"/>
+    <comp lib="9" loc="(840,535)" name="Text">
+      <a name="text" val="a8"/>
     </comp>
-    <comp lib="9" loc="(853,314)" name="Text">
+    <comp lib="9" loc="(850,310)" name="Text">
       <a name="text" val="a4"/>
     </comp>
-    <comp lib="9" loc="(858,192)" name="Text">
+    <comp lib="9" loc="(850,585)" name="Text">
+      <a name="text" val="a9"/>
+    </comp>
+    <comp lib="9" loc="(855,190)" name="Text">
       <a name="text" val="a3"/>
     </comp>
-    <comp lib="9" loc="(858,688)" name="Text">
+    <comp lib="9" loc="(855,685)" name="Text">
       <a name="text" val="a10"/>
     </comp>
-    <comp lib="9" loc="(883,928)" name="Text">
+    <comp lib="9" loc="(880,925)" name="Text">
       <a name="text" val="a15"/>
     </comp>
-    <comp lib="9" loc="(887,784)" name="Text">
+    <comp lib="9" loc="(885,780)" name="Text">
       <a name="text" val="a13"/>
     </comp>
-    <comp lib="9" loc="(911,459)" name="Text">
+    <comp lib="9" loc="(910,455)" name="Text">
       <a name="text" val="o5"/>
     </comp>
-    <comp lib="9" loc="(921,216)" name="Text">
-      <a name="text" val="o3"/>
-    </comp>
-    <comp lib="9" loc="(923,1035)" name="Text">
+    <comp lib="9" loc="(920,1035)" name="Text">
       <a name="text" val="a19"/>
     </comp>
-    <comp lib="9" loc="(925,614)" name="Text">
-      <a name="text" val="o6"/>
+    <comp lib="9" loc="(920,215)" name="Text">
+      <a name="text" val="o3"/>
     </comp>
-    <comp lib="9" loc="(928,1166)" name="Text">
+    <comp lib="9" loc="(925,1165)" name="Text">
       <a name="text" val="a21"/>
     </comp>
-    <comp lib="9" loc="(928,822)" name="Text">
+    <comp lib="9" loc="(925,610)" name="Text">
+      <a name="text" val="o6"/>
+    </comp>
+    <comp lib="9" loc="(925,820)" name="Text">
       <a name="text" val="o8"/>
     </comp>
-    <comp lib="9" loc="(981,1127)" name="Text">
+    <comp lib="9" loc="(980,1125)" name="Text">
       <a name="text" val="o10"/>
     </comp>
     <wire from="(1000,1000)" to="(1020,1000)"/>
